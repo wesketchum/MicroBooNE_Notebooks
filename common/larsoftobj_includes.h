@@ -4,3 +4,4 @@
 #include "lardataobj/RecoBase/Vertex.h"
 #include "lardataobj/RecoBase/PFParticle.h"
 
+#include "lardataobj/RawData/OpDetWaveform.h"
